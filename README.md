@@ -21,11 +21,9 @@ shell
 
 cd Hocalwire_task
 
-    Install the project dependencies:
-
 shell
 
-npm install
+open with live server
 
     Start the server:
 
