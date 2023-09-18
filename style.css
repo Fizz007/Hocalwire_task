@@ -10,6 +10,11 @@
     display: flex;
 }
 
+svg {
+    fill: #ff0066;
+    margin-right:16px;
+}
+
 .item-one {
     width: 50%;
     height: 100%;
